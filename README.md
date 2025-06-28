@@ -1,6 +1,6 @@
 # Project: **Predicting Falcon 9 Landing Success**
 
-# Predicting Falcon 9 Landing Success
+# Overview of the Project
 
 This project builds a machine learning pipeline to predict the success of Falcon 9 first-stage landings using real-world data from the SpaceX API. The goal is to identify key factors—such as payload mass, launch site, and booster version—that influence successful landings and apply predictive models to forecast outcomes.
 
