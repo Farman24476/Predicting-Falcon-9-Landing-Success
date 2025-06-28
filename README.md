@@ -54,4 +54,4 @@ Models are evaluated using:
 
 ## Future Improvements
 
-- Integrate ex
+- Integrate ex.
